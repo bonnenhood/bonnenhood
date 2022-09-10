@@ -28,5 +28,5 @@ and certainly coding :computer:
 <br />
 
 ### You can contact me:
-[vk]:vk.com/id582506477
+[vk]:https://vk.com/id582506477
 [<img align = "left" alt= "VK" width ="26px" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" />][vk]
