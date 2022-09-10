@@ -20,7 +20,7 @@ and certainly coding :computer:
 [<img align = "left" alt= "Seaborn" width ="26px" src="https://repository-images.githubusercontent.com/4704710/fd110d80-63d1-11eb-9ae4-de7c23c9dedc" />]
 [<img align = "left" alt= "PowerBI" width ="26px" src="http://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843" />]
 [<img align = "left" alt= "Premier Pro" width ="26px" src="https://www.adobe.com/content/dam/cct/creativecloud/business/teams/free-trial-new/desktop_premiere.svg" />]
-[<img align = "left" alt= "After Effects" width ="26px" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" />
+[<img align = "left" alt= "After Effects" width ="26px" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" />] [https://rutube.ru/video/4d30e37f2adbbd3f830aac8b22cb1512/]
 
 
 <br />
