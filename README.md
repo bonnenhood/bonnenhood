@@ -29,4 +29,4 @@ and certainly coding :computer:
 
 ### You can contact me:
 
-[<img align = "left" alt= "VK" width ="26px" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" />]
+[<img align = "left" alt= "VK" width ="26px" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" />][vk.com/id582506477]
