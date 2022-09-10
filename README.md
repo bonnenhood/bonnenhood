@@ -1,5 +1,5 @@
-[rutube]:[https://rutube.ru/channel/27140125/]
-## Hello, I'm [Bonnenhood][rutube]
+
+## Hello, I'm [Bonnenhood]:[https://rutube.ru/channel/27140125/]
 ### I'm a data analyst and video editor
 
 I like
@@ -29,4 +29,4 @@ and certainly coding :computer:
 
 ### You can contact me:
 
-[<img align = "left" alt= "VK" width ="26px" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" />][youtube]
+[<img align = "left" alt= "VK" width ="26px" src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" />]
