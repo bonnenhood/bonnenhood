@@ -1,5 +1,5 @@
 [rutube]:https://rutube.ru/channel/27140125/
-[After Effects]:https://rutube.ru/channel/27140125/
+[After Effects]:https://rutube.ru/video/4d30e37f2adbbd3f830aac8b22cb1512/
 ## Hello, I'm [Bonnenhood][rutube]
 ### I'm a data analyst and motion designer
 
